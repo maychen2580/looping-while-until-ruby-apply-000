@@ -4,6 +4,7 @@ def using_while
   #your code here
 end
 
-while levitation_force >= 10
+while levitation_force =< 10
+puts 
 levitation_force += 1
 end
